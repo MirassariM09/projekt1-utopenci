@@ -17,7 +17,7 @@ dny = 0
 
 class Lokace():
     def __init__(self, Hradcany, Vaclavak, Holesovice):
-        self.hradcany = Hradcany
+        self.Hradcany = Hradcany
         self.Vaclavak = Vaclavak
         self.Holesovice = Holesovice
 
