@@ -13,9 +13,15 @@ Vypíše se finální počet peněz."""
 print("Vítejte ve hře")
 
 pocatecni_zustatek = 100
+dny = 0
 
-class lokace():
-    def
+class Lokace():
+    def __init__(self, Hradcany, Vaclavak, Holesovice):
+        self.hradcany = Hradcany
+        self.Vaclavak = Vaclavak
+        self.Holesovice = Holesovice
 
+input("zadaj lokaci kAM chces ist")
+print(f"Zadal jsi lokace {Lokace}")
 
 
