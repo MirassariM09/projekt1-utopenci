@@ -21,7 +21,7 @@ class Lokace():
         self.Vaclavak = Vaclavak
         self.Holesovice = Holesovice
 
-input("zadaj lokaci kAM chces ist")
-print(f"Zadal jsi lokace {Lokace}")
+input("zadaj lokaci kam chces ist")
+
 
 
