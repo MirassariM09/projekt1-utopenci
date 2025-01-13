@@ -21,6 +21,8 @@ class Lokace():
         self.Vaclavak = Vaclavak
         self.Holesovice = Holesovice
 
+
+
 input("zadaj lokaci kam chces ist")
 
 

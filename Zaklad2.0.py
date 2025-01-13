@@ -64,3 +64,4 @@ while pocet_dnu < 14:
     pocet_dnu += 1
 
 
+
